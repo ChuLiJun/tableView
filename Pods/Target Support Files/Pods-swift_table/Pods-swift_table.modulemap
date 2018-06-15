@@ -1,0 +1,6 @@
+module Pods_swift_table {
+  umbrella header "Pods-swift_table-umbrella.h"
+
+  export *
+  module * { export * }
+}
